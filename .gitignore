@@ -1,0 +1,10 @@
+# JetBrains:
+.idea/
+*.iml
+
+# Gradle:
+.gradle/
+gradle/
+build/
+gradlew
+gradlew.bat
